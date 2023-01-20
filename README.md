@@ -1,4 +1,4 @@
-# cutouts: postage stamps along the trajectory of a moving object 
+# Kathleen's cutouts: postage stamps along the trajectory of a moving object 
 #### A Python package by the Asteroid Institute, a program of the B612 Foundation 
 [![Python 3.7+](https://img.shields.io/badge/Python-3.7%2B-blue)](https://img.shields.io/badge/Python-3.7%2B-blue)
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
